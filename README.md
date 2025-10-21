@@ -4,7 +4,7 @@ rider.nvim is a Neovim colorscheme that mirrors JetBrains Rider's dark palette. 
 
 ## Origin
 
-This project started as a fork of [kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim). The highlight logic and plugin coverage remain the same, but every most of palette entries has been reworked to match Rider's UI.
+This project started as a fork of [kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim). The highlight logic and plugin coverage remain the same, but most of palette entries has been reworked to match Rider's UI.
 
 ## Installation
 
